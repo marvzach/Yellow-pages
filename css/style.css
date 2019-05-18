@@ -57,4 +57,7 @@ body{
     ::placeholder {
         color:white;
       }
-     
+     .card-text{
+         text-align: left;
+
+     }
